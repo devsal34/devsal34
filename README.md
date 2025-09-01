@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate computer science student at Abilene Christian Universtity</h3>
 
 - 🌱 I’m currently learning **Front End Development**
 
 - 📫 How to reach me **salehidevin@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/devin-salehi-b8bba4291/](https://www.linkedin.com/in/devin-salehi-b8bba4291/)
 
 - ⚡ Fun fact **I love playing soccer**
 
