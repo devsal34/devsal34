@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **salehidevin@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/devin-salehi-b8bba4291/](https://www.linkedin.com/in/devin-salehi-b8bba4291/)
+- 📄 Know about my work experience here [https://www.linkedin.com/in/devin-salehi-b8bba4291/](https://www.linkedin.com/in/devin-salehi-b8bba4291/)
 
 - ⚡ Fun fact **I love playing soccer**
 
