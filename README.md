@@ -7,7 +7,7 @@
 
 - 📄 Know about my work experience here [https://www.linkedin.com/in/devin-salehi-b8bba4291/](https://www.linkedin.com/in/devin-salehi-b8bba4291/)
 
-- ⚡ Fun fact **I love playing soccer**
+- ⚡ Fun fact **I love playing soccer and hanging out with friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
